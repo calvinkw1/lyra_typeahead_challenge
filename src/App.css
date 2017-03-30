@@ -22,3 +22,13 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+.input-field {
+  margin: 0% 30%;
+}
+
+.book-info {
+  font-size: .8em;
+  text-align: center;
+  border: 1px solid black;
+}
